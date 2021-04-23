@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="640" height="427" src="https://upload.wikimedia.org/wikipedia/commons/7/79/BodyMassIndex.svg">
+</p>
+<p align="center"><font size="1">Image attribution: Jiver, Public domain, via Wikimedia Commons</font></p>
+
 # bmi-bmr
 Calculate a person's BMI and BMR based on their gender, weight and height.
 Height values allowed: 50cm - 220cm
