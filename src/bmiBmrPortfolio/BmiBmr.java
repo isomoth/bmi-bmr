@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class BmiBmr {
 
-	// Calculate a person's bmi and bmr based on their gender, weight and height.
+	// Calculate a person's BMI and BMR based on their gender, weight and height.
 	// Height values allowed: 50cm - 220cm
 	// Weight values allowed: 10kg - 300kg 
 
